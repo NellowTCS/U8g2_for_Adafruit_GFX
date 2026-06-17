@@ -40,6 +40,7 @@
 
 #include <Adafruit_GFX.h>
 #include "u8g2_fonts.h"
+#include "u8g2_custom_fonts.h"
 
 
 //========================================================
@@ -1920,7 +1921,6 @@ extern const uint8_t u8g2_font_px437wyse700b_mn[] U8G2_FONT_SECTION("u8g2_font_p
 #endif /* U8G2_H */
 
 /* end font list */
-
 
 #endif /* U8g2_for_Adafruit_GFX_h */
 
