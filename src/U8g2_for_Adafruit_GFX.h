@@ -46,6 +46,7 @@
 
 
 
+#ifndef U8G2_H
 struct _u8g2_font_info_t
 {
   /* offset 0 */
@@ -101,6 +102,7 @@ struct _u8g2_font_decode_t
   uint8_t dir;        /* direction */
 };
 typedef struct _u8g2_font_decode_t u8g2_font_decode_t;
+#endif /* U8G2_H */
 
 
 struct _u8g2_font_t
