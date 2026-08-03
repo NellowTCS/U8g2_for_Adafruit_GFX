@@ -1,0 +1,21 @@
+{
+    "name": "U8g2_for_Adafruit_GFX",
+    "version": "1.8.0",
+    "description": "Add U8g2 fonts to any Adafruit GFX based graphics library. Use our favorite Adafruit graphics library together with fonts from U8g2 project (https://github.com/olikraus/u8g2/wiki/fntlistall).",
+    "keywords": "display",
+    "authors": {
+        "name": "oliver",
+        "email": "olikraus@gmail.com",
+        "maintainer": true
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/olikraus/U8g2_for_Adafruit_GFX.git"
+    },
+    "homepage": "https://github.com/olikraus/U8g2_for_Adafruit_GFX",
+    "frameworks": "arduino",
+    "platforms": "*",
+    "dependencies": {
+        "name": "Adafruit GFX Library"
+    }
+}
